@@ -1,16 +1,22 @@
 #summary Le temps passé sur le projet
 
+=Conception=
 Samedi 20 octobre 2007 : conception des cas d'utilisation : (Christophe) 1h
+
                        : conception des cas d'utilisation : (          ) xh
+
                        : conception des cas d'utilisation : (          ) xh
+
                        : conception des cas d'utilisation : (          ) xh
 
 Lundi 22 octobre 2007 : rassemblement des cas d'utilisation de chacun : (tous) 1h
+
 Mercredi 24 octobre 2007 : première réunion : (tous) 20 min
 
-= Details =
+=Implantation=
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+rien à signaler
+
+=Tests=
+
+rien à signaler
