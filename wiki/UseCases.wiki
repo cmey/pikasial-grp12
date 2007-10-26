@@ -1,0 +1,19 @@
+#summary Les cas d'utilisation et leurs descriptions.
+
+<le dessin des uses cases ici>
+
+=Package Visualisation=
+
+rien à signaler
+
+=Package Meta=
+
+rien à signaler
+
+=Package Album=
+
+rien à signaler
+
+=Package Web=
+
+rien à signaler
