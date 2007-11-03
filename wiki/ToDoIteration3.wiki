@@ -1,0 +1,3 @@
+#summary Propositions de features optionnelles (pour itération 3)
+
+* barre de progression lors des traitements longs comme : chargement d'une grande image (voir http://java.sun.com/j2se/1.5.0/docs/guide/imageio/spec/apps.fm7.html)
