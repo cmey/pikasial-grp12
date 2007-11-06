@@ -5,4 +5,4 @@ Pendant les _vacances_ :
  * *Audrey* doit coder une première version de l'interface graphique ;
  * *Christophe* doit coder l'affichage d'une image ;
  * *El-Mahdi* doit coder la gestion de l'arborescence du système ;
- * *Sara* doit savoir comment extraire les meta-données système d'une image.
+ * *Sara* doit savoir comment extraire les meta-données systèmes d'une image.
