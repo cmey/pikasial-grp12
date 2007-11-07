@@ -1,0 +1,3 @@
+#summary Nos conventions de codage.
+
+tout le code en français
