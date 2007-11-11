@@ -1,4 +1,4 @@
-#summary sujet.
+#summary Maquette de l'interface graphique.
 
 = Introduction =
 
