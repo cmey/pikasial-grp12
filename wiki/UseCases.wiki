@@ -5,6 +5,11 @@ http://cyberchrist.hd.free.fr/pikasial/UML_Model_UseCases_Diagram_v1.pdf
 
 =Package Visualisation=
 
+|| *Nom du cas d'utilisation* || *Priorité* || *Itération n°* ||
+|| Visualiser une photo || Haute || 1 ||
+|| Sélectionner une photo || Moyenne || 1 ||
+|| Affichage par diaporama || Faible || 2 ||
+
 _Visualiser une photo_
  * *précondition* : avoir sélectionné la photo ET la photo existe sur l'emplacement indiqué ET Java supporte l'affichage de la photo
  * *en cas de succès* : photo affichée à l'écran
