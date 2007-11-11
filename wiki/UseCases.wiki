@@ -10,9 +10,10 @@ _Visualiser une photo_
  * *en cas de succès* : photo affichée à l'écran
  * *en cas d'échec* : afficher un message d'erreur
  * *déclenchement* : l'utilisateur double clique sur une photo + bouton « afficher »
- * *actions* : 1) on double clique sur la photo sélectionnée OU on clique sur le bouton « afficher »
-2) chargement vue image : une nouvelle fenêtre apparait
-	3) affichage de la photo
+ * *actions* :
+ * 1) on double clique sur la photo sélectionnée OU on clique sur le bouton « afficher »
+ * 2) chargement vue image : une nouvelle fenêtre apparait
+ * 3) affichage de la photo
  * *Priorité* : Importante
  * *Cas utilisé par ce cas* : Sélectionner une photo
  * *Question* : On suppose qu'on supprime jamais une photo en dehors de picasa alors que picasa est ouvert; à remettre en question!
@@ -23,8 +24,9 @@ _Sélectionner une photo_
  * *succès* : photo sélectionnée
  * *echec* : on affiche un message d'erreur (on a supprimé la source ?) ET on indique le raccourci n'est plus valide
  * *déclenchement* : simple clic sur une photo OU être dans un carré de sélection avec la souris
- * *actions* : 1) on simple clic sur la photo OU on sélectionne avec le carré de sélection
-2) photo sélectionnée
+ * *actions* :
+ * 1) on simple clic sur la photo OU on sélectionne avec le carré de sélection
+ * 2) photo sélectionnée
  * *Priorité* : Importante
  * *Cas utilisé par ce cas* : rien
 
@@ -34,11 +36,12 @@ _Affichage par diaporama_
  * *succès* : affichage du diaporama, la première photo est affichée
  * *echec* : 
  * *déclenchement* : menu contextuel « afficher en diaporama » OU un bouton « afficher en diaporama »
- * *actions* : 1) sélectionner les images OU l'album
-2)appuyer sur la commande
-3)visualiser une photo (la première)
-4)attendre et sélectionner la prochaine photo
-5)répéter 3-4
+ * *actions* :
+ * 1) sélectionner les images OU l'album
+ * 2)appuyer sur la commande
+ * 3)visualiser une photo (la première)
+ * 4)attendre et sélectionner la prochaine photo
+ * 5)répéter 3-4
  * *Priorité* : faible
  * *cas utilisé par ce cas* : visualisation d'une photo, sélection d'une photo
 
@@ -64,9 +67,10 @@ _Créer un album_
 _Placer photo dans album_
  * *précond* : photo(s) sélectionnée(s) ET album créé
  * *déclenchement* : drag & drop OU copier / coller OU couper / coller
- * *actions* : 1) on déplace ou coupe ou colle photo(s)
-2)si le nom de la photo déjà existante : proposer : écraser ? renommer ? annuler la copie ?
-3)l'album destination est composée de ces photos (+ les anciennes)
+ * *actions* :
+ * 1) on déplace ou coupe ou colle photo(s)
+ * 2)si le nom de la photo déjà existante : proposer : écraser ? renommer ? annuler la copie ?
+ * 3)l'album destination est composée de ces photos (+ les anciennes)
  * *priorité* : moyenne
  * *cas utilisé par ce cas* : sélectionner une photo, sélectionner un album
  * *Question* : chaque photo d'un album doit avoir un nom unique ; à remettre en question!
@@ -82,7 +86,7 @@ _Rotation image_
  * *précond* : une seule image est affichée
  * *déclenchement* : sélection de l'item « rotation 90° » dans une liste déroulante
  * *actions* : 1) l 'image est affichée
-2)on sélectionne le degré de rotation
-3)la rotation se fait
+ * 2)on sélectionne le degré de rotation
+ * 3)la rotation se fait
  * *Priorité* : faible
  * *cas utilisé par ce cas* : visualisation d'une photo
