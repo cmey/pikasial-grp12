@@ -1,6 +1,8 @@
 #summary Organisation de notre groupe.
 #labels Phase-Requirements
 
+Ceci est une PROPOSITION ! Merci de commenter (en dessous) pour proposer des modifications... !!!
+
 D'une manière générale, nous sommes répartis par "package" :
  * *Audrey* responsable de l'interface graphique / interface utilisateur ;
  * *Christophe* responsable de la partie Images du modèle et du moteur d'images ;
