@@ -1,3 +1,3 @@
 #summary Nos conventions de codage.
 
-tout le code en français
+tout le code en anglais
