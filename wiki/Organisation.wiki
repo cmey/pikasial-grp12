@@ -5,7 +5,7 @@ D'une manière générale, nous sommes répartis par "package" :
  * *Audrey* responsable de l'interface graphique / interface utilisateur ;
  * *Christophe* responsable de la partie Images du modèle et du moteur d'images ;
  * *El-Mahdi* responsable de la partie Dossiers du modèle et du moteur des albums ;
- * *Sara* responsable de la partie MetaDonnées et des accès au système.
+ * *Sara* responsable de la partie meta-donnée et des accès au système.
 
 
 Objectif premières semaines :
