@@ -38,10 +38,10 @@ _Affichage par diaporama_
  * *déclenchement* : menu contextuel « afficher en diaporama » OU un bouton « afficher en diaporama »
  * *actions* :
  * 1) sélectionner les images OU l'album
- * 2)appuyer sur la commande
- * 3)visualiser une photo (la première)
- * 4)attendre et sélectionner la prochaine photo
- * 5)répéter 3-4
+ * 2) appuyer sur la commande
+ * 3) visualiser une photo (la première)
+ * 4) attendre et sélectionner la prochaine photo
+ * 5) répéter 3-4
  * *Priorité* : faible
  * *cas utilisé par ce cas* : visualisation d'une photo, sélection d'une photo
 
@@ -69,8 +69,8 @@ _Placer photo dans album_
  * *déclenchement* : drag & drop OU copier / coller OU couper / coller
  * *actions* :
  * 1) on déplace ou coupe ou colle photo(s)
- * 2)si le nom de la photo déjà existante : proposer : écraser ? renommer ? annuler la copie ?
- * 3)l'album destination est composée de ces photos (+ les anciennes)
+ * 2) si le nom de la photo déjà existante : proposer : écraser ? renommer ? annuler la copie ?
+ * 3) l'album destination est composée de ces photos (+ les anciennes)
  * *priorité* : moyenne
  * *cas utilisé par ce cas* : sélectionner une photo, sélectionner un album
  * *Question* : chaque photo d'un album doit avoir un nom unique ; à remettre en question!
@@ -87,7 +87,7 @@ _Rotation image_
  * *déclenchement* : sélection de l'item « rotation 90° » dans une liste déroulante
  * *actions* :
  * 1) l 'image est affichée
- * 2)on sélectionne le degré de rotation
- * 3)la rotation se fait
+ * 2) on sélectionne le degré de rotation
+ * 3) la rotation se fait
  * *Priorité* : faible
  * *cas utilisé par ce cas* : visualisation d'une photo
