@@ -85,7 +85,8 @@ rien à signaler
 _Rotation image_
  * *précond* : une seule image est affichée
  * *déclenchement* : sélection de l'item « rotation 90° » dans une liste déroulante
- * *actions* : 1) l 'image est affichée
+ * *actions* :
+ * 1) l 'image est affichée
  * 2)on sélectionne le degré de rotation
  * 3)la rotation se fait
  * *Priorité* : faible
