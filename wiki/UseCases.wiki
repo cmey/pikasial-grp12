@@ -1,4 +1,4 @@
-##summary Les cas d'utilisation et leurs descriptions.
+##summary Cas d'utilisation et leurs descriptions.
 
 Le dessin des cas d'utilisation :
 http://cyberchrist.hd.free.fr/pikasial/UML_Model_UseCases_Diagram_v1.pdf
