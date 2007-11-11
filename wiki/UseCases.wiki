@@ -7,8 +7,9 @@ http://cyberchrist.hd.free.fr/pikasial/UML_Model_UseCases_Diagram_v1.pdf
 
 || *Nom du cas d'utilisation* || *Priorité* || *Itération n°* ||
 || Visualiser une photo || Haute || 1 ||
-|| Sélectionner une photo || Moyenne || 1 ||
+|| Sélectionner une photo || Haute || 1 ||
 || Affichage par diaporama || Faible || 2 ||
+|| Imprimer || Faible || 3 ||
 
 _Visualiser une photo_
  * *précondition* : avoir sélectionné la photo ET la photo existe sur l'emplacement indiqué ET Java supporte l'affichage de la photo
@@ -55,9 +56,16 @@ _Affichage par diaporama_
 
 =Package Meta=
 
+|| *Nom du cas d'utilisation* || *Priorité* || *Itération n°* ||
+
+
 rien à signaler
 
 =Package Album=
+
+|| *Nom du cas d'utilisation* || *Priorité* || *Itération n°* ||
+|| Créer un album || Haute || 2 ||
+|| Placer photo dans album || Haute || 2 ||
 
 _Créer un album_
  * *précond* :
@@ -82,10 +90,23 @@ _Placer photo dans album_
 
 =Package Web=
 
+|| *Nom du cas d'utilisation* || *Priorité* || *Itération n°* ||
+|| Se connecter || Faible || 3 ||
+|| Accéder à dossier web || Faible || 3 ||
+|| Rappatrier || Faible || 3 ||
+|| Envoyer || Faible || 3 ||
+
+
 rien à signaler
 
 
 =Package Traitement=
+
+|| *Nom du cas d'utilisation* || *Priorité* || *Itération n°* ||
+|| Rotation image || Faible || 2 ||
+|| Zoomer image || Faible || 2 ||
+|| Redimensionner image || Faible || 2 ||
+
 
 _Rotation image_
  * *précond* : une seule image est affichée
