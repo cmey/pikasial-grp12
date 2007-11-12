@@ -23,3 +23,7 @@ Samedi 3 novembre 2007 : chargement d'une image et affichage dans une JFrame : C
 =Tests=
 
 rien à signaler
+
+=Documentation=
+
+Samedi 10 novembre 2007 : ajout de quelques descriptions (et priorité) de use cases + proposition d'organisation "qui fait quoi" pour les 3 itérations : Christophe : 3h
