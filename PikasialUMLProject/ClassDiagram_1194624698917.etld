@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TSX edition="Java Edition" product="Tom Sawyer Visualization" version="6.0.1">
+    <graphManager id="4">
+        <resources>
+            <shapes>
+                <rectangleShape id="0"/>
+            </shapes>
+            <fonts>
+                <font id="1">
+                    <name value="SansSerif"/>
+                    <bold value="false"/>
+                    <italic value="false"/>
+                    <fontHeight value="10"/>
+                </font>
+                <font id="2">
+                    <name value="SansSerif"/>
+                    <bold value="false"/>
+                    <italic value="false"/>
+                    <fontHeight value="12"/>
+                </font>
+                <font id="3">
+                    <name value="SansSerif"/>
+                    <bold value="false"/>
+                    <italic value="false"/>
+                    <fontHeight value="8"/>
+                </font>
+            </fonts>
+        </resources>
+        <instances>
+            <graphs>
+                <graph id="5">
+                    <name/>
+                    <margins>
+                        <proportional bottom="0.0" left="0.0" right="0.0" top="0.0"/>
+                        <constant bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+                    </margins>
+                    <url/>
+                    <graphics type="basicGraph">
+                        <backgroundColor value="255 255 255"/>
+                        <imageUsed/>
+                        <imageTiled value="false"/>
+                        <imageStyle value="WORLD_OFFSET"/>
+                        <imageMinTileStep value="25"/>
+                        <imageX value="0.0"/>
+                        <imageY value="0.0"/>
+                        <drawNodesBeforeEdges value="true"/>
+                    </graphics>
+                </graph>
+                <graph id="6">
+                    <name/>
+                    <margins>
+                        <proportional bottom="0.0" left="0.0" right="0.0" top="0.0"/>
+                        <constant bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+                    </margins>
+                    <url/>
+                    <graphics type="basicGraph">
+                        <backgroundColor value="255 255 255"/>
+                        <imageUsed/>
+                        <imageTiled value="false"/>
+                        <imageStyle value="WORLD_OFFSET"/>
+                        <imageMinTileStep value="25"/>
+                        <imageX value="0.0"/>
+                        <imageY value="0.0"/>
+                        <drawNodesBeforeEdges value="true"/>
+                    </graphics>
+                </graph>
+                <graph id="7">
+                    <name/>
+                    <nodes>
+                        <node id="8">
+                            <name/>
+                            <center x="-371.5385498983861" y="-545.1254852827533"/>
+                            <size height="112.0" width="217.0"/>
+                            <originalSize height="112.0" width="217.0"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.D0A4764E-546D-EFD0-E124-F22C65C389DB"/>
+                            </graphics>
+                        </node>
+                        <node id="9">
+                            <name/>
+                            <center x="-683.7385498983863" y="-91.90819448609261"/>
+                            <size height="145.0" width="309.0"/>
+                            <originalSize height="145.0" width="309.0"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.50600C89-EC94-6221-CAF4-DDF33B5A3392"/>
+                            </graphics>
+                        </node>
+                        <node id="10">
+                            <name/>
+                            <center x="-61.7629136860337" y="851.9322777774037"/>
+                            <size height="330.1991420119389" width="268.2122994681814"/>
+                            <originalSize height="330.19914201193893" width="268.2122994681814"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.67B35F41-BE1B-2B9A-1B07-A853770059F1"/>
+                            </graphics>
+                        </node>
+                        <node id="11">
+                            <name/>
+                            <center x="-61.7629136860337" y="-545.1254852827533"/>
+                            <size height="165.36335358792985" width="265.9593936872541"/>
+                            <originalSize height="165.36335358792985" width="265.9593936872541"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.080A5384-E147-DF8B-93EF-C519AD8F0717"/>
+                            </graphics>
+                        </node>
+                        <node id="12">
+                            <name/>
+                            <center x="-978.5385498983862" y="-91.90819448609261"/>
+                            <size height="112.0" width="149.0"/>
+                            <originalSize height="112.0" width="149.0"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.191702A3-93E7-8671-6997-A12482402862"/>
+                            </graphics>
+                        </node>
+                        <node id="13">
+                            <name/>
+                            <center x="221.61272252631875" y="-545.1254852827533"/>
+                            <size height="112.0" width="173.0"/>
+                            <originalSize height="112.0" width="173.0"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.8045DFE3-C5E6-9C6B-86DD-3AFA9D6B0D04"/>
+                            </graphics>
+                        </node>
+                        <node id="14">
+                            <name/>
+                            <center x="221.61272252631875" y="-91.90819448609261"/>
+                            <size height="259.86791681806017" width="360.0005086195147"/>
+                            <originalSize height="259.86791681806017" width="360.0005086195146"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.51E6B7B4-696D-C43C-238A-755D844B87C3"/>
+                            </graphics>
+                        </node>
+                        <node id="15">
+                            <name/>
+                            <center x="543.5322077334822" y="-545.1254852827533"/>
+                            <size height="244.3712061821209" width="330.1991420119389"/>
+                            <originalSize height="244.3712061821209" width="330.199142011939"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.22475937-8E55-A67F-5232-E6D089D974F3"/>
+                            </graphics>
+                        </node>
+                        <node id="16">
+                            <name/>
+                            <center x="959.771178147809" y="-545.1254852827533"/>
+                            <size height="225.29833155327242" width="330.1991420119389"/>
+                            <originalSize height="225.29833155327242" width="330.1991420119389"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.D7517304-224E-5DF3-E112-E03078AA6C2D"/>
+                            </graphics>
+                        </node>
+                        <node id="17">
+                            <name/>
+                            <center x="-61.7629136860337" y="-778.9482089920258"/>
+                            <size height="112.0" width="168.0"/>
+                            <originalSize height="112.0" width="168.0"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.E2A68293-4A28-5541-D6B3-98CD4E25C528"/>
+                            </graphics>
+                        </node>
+                        <node id="18">
+                            <name/>
+                            <center x="-383.03053118134324" y="424.2495825857678"/>
+                            <size height="349.27201664078734" width="343.3117433192722"/>
+                            <originalSize height="349.2720166407874" width="343.31174331927224"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.ED078EAB-ACED-1457-5B0B-1F541778AAA2"/>
+                            </graphics>
+                        </node>
+                        <node id="19">
+                            <name/>
+                            <center x="-371.5385498983861" y="-91.90819448609261"/>
+                            <size height="112.0" width="178.0"/>
+                            <originalSize height="112.0" width="178.0"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="1"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.46031528-BA30-CE43-1C12-47AF15CBC6CE"/>
+                            </graphics>
+                        </node>
+                        <node id="20">
+                            <name value="PikasialImage is Adapter for java.awt.Image"/>
+                            <center x="-383.03053118134324" y="851.9322777774036"/>
+                            <size height="79.86766250830306" width="150.19888770218154"/>
+                            <originalSize height="79.86766250830294" width="150.1988877021816"/>
+                            <shape resource="0"/>
+                            <url/>
+                            <visible value="true"/>
+                            <resizability value="RESIZABILITY_NO_FIT"/>
+                            <graphics type="ETGenericNodeUI">
+                                <fillColor value="204 204 204"/>
+                                <borderColor value="0 0 0"/>
+                                <transparent value="false"/>
+                                <drawBorder value="true"/>
+                                <textFont resource="2"/>
+                                <textColor value="0 0 0"/>
+                                <justification value="CENTER"/>
+                                <childGraphMark value="true"/>
+                                <PEID value="DCE.C9B44C53-50FF-4F54-1520-A524D8F139C0"/>
+                            </graphics>
+                        </node>
+                    </nodes>
+                    <edges>
+                        <edge id="21" source="13" target="14">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.01EFD49E-09FB-12EC-EB21-9F4140824F2D"/>
+                            </graphics>
+                        </edge>
+                        <edge id="22" source="11" target="10">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <edgeLabels>
+                                <edgeLabel id="23">
+                                    <name value="&lt;&lt;usage&gt;&gt;"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="-41.5" y="0.0"/>
+                                    <distanceFromSource value="0.46672703122792075"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.97DA713B-1C73-B013-5892-C5E402354F40"/>
+                                    </graphics>
+                                </edgeLabel>
+                            </edgeLabels>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.791B894A-A61E-D34A-1965-76D2B98236BB"/>
+                            </graphics>
+                        </edge>
+                        <edge id="24" source="15" target="14">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.4551492C-3046-7D76-7527-48080536BC09"/>
+                            </graphics>
+                        </edge>
+                        <edge id="25" source="16" target="14">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <bends>
+                                <point x="708.6317787394516" y="-372.6654498675503"/>
+                            </bends>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.9B4903C7-914A-77DF-EB20-D9B2EE651832"/>
+                            </graphics>
+                        </edge>
+                        <edge id="26" source="17" target="11">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.EC73E6E9-6083-236F-1488-7F5F0A92BFF8"/>
+                            </graphics>
+                        </edge>
+                        <edge id="27" source="14" target="10">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <bends>
+                                <point x="221.61272252631875" y="424.2495825857678"/>
+                            </bends>
+                            <edgeLabels>
+                                <edgeLabel id="28">
+                                    <name value="mMetaDonnee"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="41.5" y="5.6843418860808015E-14"/>
+                                    <distanceFromSource value="0.4961637158713547"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.C6B39824-AF41-19A9-BB94-A83452A12CB0"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="29">
+                                    <name value="0..1"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="-41.5" y="0.0"/>
+                                    <distanceFromSource value="0.47157821961251584"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.CDBD4B1A-56CE-7F6E-EBC5-B66B7FF756F4"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="30">
+                                    <name value="0..*"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="-41.5" y="5.6843418860808015E-14"/>
+                                    <distanceFromSource value="0.5038362841286448"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.061B68D3-5AC1-FEB8-E778-1732EF5CA6F1"/>
+                                    </graphics>
+                                </edgeLabel>
+                            </edgeLabels>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.E7C219CD-7802-FDDB-D426-73F87C78130C"/>
+                            </graphics>
+                        </edge>
+                        <edge id="31" source="11" target="14">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <edgeLabels>
+                                <edgeLabel id="32">
+                                    <name value="mFolder"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="29.835900306136693" y="-18.654997068532225"/>
+                                    <distanceFromSource value="0.49688962134657344"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.AE63B466-69D6-AB9D-0039-76BA99A3A610"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="33">
+                                    <name value="0..*"/>
+                                    <size height="20.0" width="74.99999999999994"/>
+                                    <constantOffset x="36.12915232925598" y="-22.589874073690908"/>
+                                    <distanceFromSource value="0.39054035126627734"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.C64BBF42-E3CC-28C7-304B-96E691A3CCCB"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="34">
+                                    <name value="1"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="-29.835900306136665" y="18.654997068532225"/>
+                                    <distanceFromSource value="0.5031103786534263"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.4DFDA10E-B723-81E7-507D-80079BF24F8C"/>
+                                    </graphics>
+                                </edgeLabel>
+                            </edgeLabels>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.D0FED175-1AA2-B784-68F9-3050577D1B7B"/>
+                            </graphics>
+                        </edge>
+                        <edge id="35" source="9" target="18">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <edgeLabels>
+                                <edgeLabel id="36">
+                                    <name value="&lt;&lt;usage&gt;&gt;"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="37.073217451763526" y="-21.59846128954841"/>
+                                    <distanceFromSource value="0.48279023683505495"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.1E10CCB7-AC5A-2BD1-5D45-2CED3B5E2943"/>
+                                    </graphics>
+                                </edgeLabel>
+                            </edgeLabels>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.EC7D58BD-C5C2-1610-E803-3FE8315C81A0"/>
+                            </graphics>
+                        </edge>
+                        <edge id="37" source="12" target="18">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <bends>
+                                <point x="-838.2385498983863" y="90.92271650854661"/>
+                            </bends>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.9F2D7840-78F9-66FF-9374-E66397D7E695"/>
+                            </graphics>
+                        </edge>
+                        <edge id="38" source="14" target="18">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <edgeLabels>
+                                <edgeLabel id="39">
+                                    <name value="mPikasialImage"/>
+                                    <size height="20.0" width="74.99999999999994"/>
+                                    <constantOffset x="-24.40721547647965" y="-28.591370381673272"/>
+                                    <distanceFromSource value="0.6737795818093774"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.39248BB2-1BC0-AAF3-B6B1-6C19732521C8"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="40">
+                                    <name value="1..*"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="24.407215476479735" y="28.591370381673244"/>
+                                    <distanceFromSource value="0.39073654722288104"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.3DE1A07B-D34B-12C6-3421-3BDF49181A18"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="41">
+                                    <name value="0..*"/>
+                                    <size height="20.0" width="74.99999999999997"/>
+                                    <constantOffset x="-24.407215476479692" y="-28.591370381673272"/>
+                                    <distanceFromSource value="0.5447473237448612"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.96CFA67B-549E-F7AA-D2CB-CA508C79C104"/>
+                                    </graphics>
+                                </edgeLabel>
+                            </edgeLabels>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.D5203118-A8EC-41A0-567E-209B3554DD78"/>
+                            </graphics>
+                        </edge>
+                        <edge id="42" source="8" target="19">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.2357D90D-85B3-2AF4-D2A5-9C715F488881"/>
+                            </graphics>
+                        </edge>
+                        <edge id="43" source="19" target="18">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.D13E2973-C411-6356-AEE9-A85E1D47DBA6"/>
+                            </graphics>
+                        </edge>
+                        <edge id="44" source="8" target="14">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <bends>
+                                <point x="-194.74261052966074" y="-372.6654498675503"/>
+                            </bends>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.F3D0D9E9-4EB4-3052-06E3-912FBD4B4ACC"/>
+                            </graphics>
+                        </edge>
+                        <edge id="45" source="18" target="10">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <edgeLabels>
+                                <edgeLabel id="46">
+                                    <name value="mMetaDonnee"/>
+                                    <size height="20.0" width="74.99999999999991"/>
+                                    <constantOffset x="-33.25282429785352" y="24.97892890516573"/>
+                                    <distanceFromSource value="0.48806764936771446"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.59A8A4C1-48BF-D73C-AB89-049D01E35BF0"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="47">
+                                    <name value="0..*"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="33.25282429785352" y="-24.97892890516573"/>
+                                    <distanceFromSource value="0.7699968667613176"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.1D54E598-703C-9A1B-2DC1-57F08D1C9E22"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="48">
+                                    <name value="0..1"/>
+                                    <size height="20.0" width="75.0"/>
+                                    <constantOffset x="33.25282429785352" y="-24.97892890516573"/>
+                                    <distanceFromSource value="0.5119323506322854"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.430C2423-B0B9-C498-BD70-B024A1FED1A0"/>
+                                    </graphics>
+                                </edgeLabel>
+                            </edgeLabels>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.290DBC89-17E4-D750-AE44-FEFFA45346FF"/>
+                            </graphics>
+                        </edge>
+                        <edge id="49" source="18" target="20">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.248D90D0-3F2D-B89E-21C9-2A1306E2F363"/>
+                            </graphics>
+                        </edge>
+                    </edges>
+                    <margins>
+                        <proportional bottom="0.0" left="0.0" right="0.0" top="0.0"/>
+                        <constant bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+                    </margins>
+                    <url/>
+                    <graphics type="basicGraph">
+                        <backgroundColor value="255 255 255"/>
+                        <imageUsed/>
+                        <imageTiled value="false"/>
+                        <imageStyle value="WORLD_OFFSET"/>
+                        <imageMinTileStep value="25"/>
+                        <imageX value="0.0"/>
+                        <imageY value="0.0"/>
+                        <drawNodesBeforeEdges value="true"/>
+                    </graphics>
+                </graph>
+            </graphs>
+            <rootGraph value="7"/>
+        </instances>
+    </graphManager>
+    <serviceInput type="jlayout">
+        <defaults>
+            <optionDefaults type="connector">
+                <optionDefault name="all:all:connector:movable" value="false"/>
+            </optionDefaults>
+            <optionDefaults type="edge">
+                <optionDefault name="all:all:edge:sourceAttachmentSide" value="ATTACHMENT_SIDE_ANY"/>
+                <optionDefault name="layout:all:edge:embedded" value="true"/>
+                <optionDefault name="all:all:edge:targetAttachmentSide" value="ATTACHMENT_SIDE_ANY"/>
+                <optionDefault name="layout:symmetric:edge:desiredLength" value="1.0"/>
+            </optionDefaults>
+            <optionDefaults type="node">
+                <optionDefault name="routing:all:node:fixedPosition" value="false"/>
+                <optionDefault name="routing:all:node:fixedSize" value="false"/>
+                <optionDefault name="all:all:node:attachmentSide" value="ATTACHMENT_SIDE_ANY"/>
+                <optionDefault name="layout:all:node:embedded" value="true"/>
+                <optionDefault name="layout:symmetric:node:constrained" value="false"/>
+            </optionDefaults>
+            <optionDefaults type="edgeLabel">
+                <optionDefault name="labeling:all:edgeLabel:fixed" value="false"/>
+                <optionDefault name="labeling:all:edgeLabel:association" value="EDGE_LABEL_ASSOCIATION_CENTER"/>
+                <optionDefault name="labeling:all:edgeLabel:region" value="EDGE_LABEL_REGION_ANY"/>
+            </optionDefaults>
+            <optionDefaults type="graph">
+                <optionDefault name="layout:all:graph:incrementalCompaction" value="true"/>
+                <optionDefault name="layout:orthogonal:graph:verticalSpacingBetweenNodes" value="20.0"/>
+                <optionDefault name="layout:orthogonal:graph:keepNodeSizes" value="false"/>
+                <optionDefault name="layout:hierarchical:graph:levelAlignment" value="CENTER_ALIGNED"/>
+                <optionDefault name="layout:all:graph:disconnectedNodesConstantSpacing" value="20.0"/>
+                <optionDefault name="layout:hierarchical:graph:undirected" value="false"/>
+                <optionDefault name="layout:hierarchical:graph:horizontalSpacingBetweenEdges" value="12.0"/>
+                <optionDefault name="layout:hierarchical:graph:proportionalHorizontalSpacingBetweenNodes" value="0.1"/>
+                <optionDefault name="layout:all:graph:componentProportionalSpacing" value="0.05"/>
+                <optionDefault name="layout:hierarchical:graph:variableLevelSpacing" value="true"/>
+                <optionDefault name="layout:all:graph:componentAspectRatio" value="1.0"/>
+                <optionDefault name="layout:orthogonal:graph:horizontalSpacingBetweenNodes" value="20.0"/>
+                <optionDefault name="layout:hierarchical:graph:levelDirection" value="DIRECTION_TOP_TO_BOTTOM"/>
+                <optionDefault name="layout:hierarchical:graph:verticalSpacingBetweenEdges" value="12.0"/>
+                <optionDefault name="layout:hierarchical:graph:constantHorizontalSpacingBetweenNodes" value="20.0"/>
+                <optionDefault name="layout:orthogonal:graph:aspectRatio" value="0.0"/>
+                <optionDefault name="layout:orthogonal:graph:verticalSpacingBetweenEdges" value="12.0"/>
+                <optionDefault name="layout:all:graph:disconnectedNodesProportionalSpacing" value="0.05"/>
+                <optionDefault name="layout:symmetric:graph:nodeSpacing" value="10.0"/>
+                <optionDefault name="layout:all:graph:componentConstantSpacing" value="20.0"/>
+                <optionDefault name="layout:all:graph:layoutStyle" value="LAYOUT_STYLE_HIERARCHICAL"/>
+                <optionDefault name="layout:hierarchical:graph:constantVerticalSpacingBetweenNodes" value="20.0"/>
+                <optionDefault name="layout:orthogonal:graph:horizontalSpacingBetweenEdges" value="12.0"/>
+                <optionDefault name="layout:all:graph:detectDisconnectedNodes" value="true"/>
+                <optionDefault name="layout:hierarchical:graph:quality" value="LAYOUT_QUALITY_MEDIUM"/>
+                <optionDefault name="layout:orthogonal:graph:strictIncremental" value="false"/>
+                <optionDefault name="layout:symmetric:graph:randomSeed" value="1"/>
+                <optionDefault name="layout:hierarchical:graph:keepNodeSizes" value="false"/>
+                <optionDefault name="layout:hierarchical:graph:orthogonalRouting" value="false"/>
+                <optionDefault name="layout:symmetric:graph:quality" value="LAYOUT_QUALITY_MEDIUM"/>
+                <optionDefault name="layout:orthogonal:graph:quality" value="LAYOUT_QUALITY_MEDIUM"/>
+                <optionDefault name="layout:all:graph:detectComponents" value="true"/>
+                <optionDefault name="layout:orthogonal:graph:useCombLabeling" value="true"/>
+                <optionDefault name="layout:hierarchical:graph:proportionalVerticalSpacingBetweenNodes" value="0.1"/>
+                <optionDefault name="layout:hierarchical:graph:edgeSpacing" value="12.0"/>
+            </optionDefaults>
+            <optionDefaults type="connectorLabel">
+                <optionDefault name="labeling:all:connectorLabel:fixed" value="false"/>
+                <optionDefault name="labeling:all:connectorLabel:region" value="CONNECTOR_LABEL_REGION_ANY"/>
+            </optionDefaults>
+            <optionDefaults type="nodeLabel">
+                <optionDefault name="labeling:all:nodeLabel:region" value="NODE_LABEL_REGION_ANY"/>
+                <optionDefault name="labeling:all:nodeLabel:location" value="NODE_LABEL_LOCATION_CENTER"/>
+                <optionDefault name="labeling:all:nodeLabel:orientation" value="NODE_LABEL_ORIENTATION_OUTSIDE"/>
+                <optionDefault name="labeling:all:nodeLabel:fixed" value="false"/>
+            </optionDefaults>
+            <optionDefaults type="graphManager">
+                <optionDefault name="routing:all:graphManager:fixedPosition" value="true"/>
+                <optionDefault name="routing:all:graphManager:horizontalSpacingBetweenEdges" value="12.0"/>
+                <optionDefault name="routing:all:graphManager:verticalSpacingBetweenNodes" value="20.0"/>
+                <optionDefault name="layout:all:graphManager:incrementalLayout" value="false"/>
+                <optionDefault name="layout:all:graphManager:horizontalSpacingBetweenIntergraphEdges" value="12.0"/>
+                <optionDefault name="all:all:graphManager:performLabeling" value="true"/>
+                <optionDefault name="routing:all:graphManager:verticalSpacingBetweenEdges" value="12.0"/>
+                <optionDefault name="routing:all:graphManager:horizontalSpacingBetweenNodes" value="20.0"/>
+                <optionDefault name="layout:all:graphManager:verticalSpacingBetweenIntergraphEdges" value="12.0"/>
+                <optionDefault name="routing:all:graphManager:fixedSize" value="true"/>
+            </optionDefaults>
+        </defaults>
+        <option context="none" name="all:all:none:graphManager" value="4"/>
+        <option context="4" name="layout:all:graphManager:incrementalLayout" value="true"/>
+        <option context="7" name="layout:hierarchical:graph:levelDirection" value="DIRECTION_BOTTOM_TO_TOP"/>
+    </serviceInput>
+    <preferences>
+        <preference name="maximumZoomLevel" value="50.0"/>
+        <preference name="interactiveZoomSensitivity" value="200.0"/>
+        <preference name="panningSensitivity" value="1.0"/>
+        <preference name="preventResizeInversion" value="false"/>
+        <preference name="drawInvisibleOnDragging" value="false"/>
+        <preference name="compressMetaEdges" value="true"/>
+        <preference name="edgeNavigationTripDuration" value="300"/>
+        <preference name="edgeNavigationFrameCount" value="10"/>
+        <preference name="autoHideScrollbars" value="true"/>
+        <preference name="hitToleranceThreshold" value="10"/>
+        <preference name="opaqueMovement" value="false"/>
+        <preference name="geometricAdjustment" value="true"/>
+        <preference name="reconnectEdgeSensitivity" value="10.0"/>
+        <preference name="edgeNavigationBlinkDuration" value="500"/>
+        <preference name="undoStackSize" value="50"/>
+        <preference name="minimumZoomLevel" value="1.0E-4"/>
+        <preference name="inPlaceEditing" value="true"/>
+        <preference name="tooltipsEnabled" value="true"/>
+        <preference name="hitTolerance" value="5"/>
+        <preference name="partialSelection" value="true"/>
+    </preferences>
+</TSX>
