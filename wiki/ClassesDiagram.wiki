@@ -1,0 +1,9 @@
+#summary Le diagramme des classes du modèle.
+
+= Introduction =
+
+http://pikasial-grp12.googlecode.com/files/UML_Model_Class_Diagram_v1.pdf
+
+= Details =
+
+to be continued...
