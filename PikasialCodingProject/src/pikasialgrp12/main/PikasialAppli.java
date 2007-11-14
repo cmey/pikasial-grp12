@@ -24,4 +24,8 @@ public class PikasialAppli {
     PikasialGUI gui = new PikasialGUI(model); // view creation over the model
   }
   
+  public static void main(String[] args){
+    new PikasialAppli();
+  }
+  
 }
