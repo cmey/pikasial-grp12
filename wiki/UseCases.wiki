@@ -12,23 +12,23 @@ http://img411.imageshack.us/img411/5276/umlmodelusecasesdiagramfi1.png
 || Imprimer || Faible || 3 ||
 
 _Visualiser une photo_
- * *précondition* : avoir sélectionné la photo ET la photo existe sur l'emplacement indiqué ET Java supporte l'affichage de la photo
+ * *précondition* : la photo est sélectionnée ET la photo existe sur l'emplacement indiqué ET Java supporte l'affichage de la photo
  * *en cas de succès* : photo affichée à l'écran
- * *en cas d'échec* : afficher un message d'erreur
- * *déclenchement* : l'utilisateur double clique sur une photo + bouton « afficher »
+ * *en cas d'échec* : afficher un message d'erreur ( soit "Une image doit être sélectionnée", "Aucun aperçu n'est disponible, vérifiez la validité du raccourci" ou "Java ne supporte pas l'affichage de cette photo" )
+ * *déclenchement* : l'utilisateur double clique sur une photo + bouton « afficher » + bouton Entrée
  * *actions* :
-   # on double clique sur la photo sélectionnée OU on clique sur le bouton « afficher »
-   # chargement vue image : une nouvelle fenêtre apparait
+   # on double clique sur la photo sélectionnée OU on clique sur le bouton « afficher » OU on appuye sur Entrée
+   # chargement vue image : une nouvelle fenêtre apparaît
    # affichage de la photo
  * *Priorité* : Importante
  * *Cas utilisé par ce cas* : Sélectionner une photo
- * *Question* : On suppose qu'on supprime jamais une photo en dehors de picasa alors que picasa est ouvert; à remettre en question!
+ * *Question* : On suppose qu'on supprime jamais une photo en dehors de picasa alors que picasa est ouvert; à remettre en question !
 
 
 _Sélectionner une photo_
  * *précond* : le fichier sélectionné existe (ça peut être juste un raccourci)
  * *succès* : photo sélectionnée
- * *echec* : on affiche un message d'erreur (on a supprimé la source ?) ET on indique le raccourci n'est plus valide
+ * *echec* : on affiche un message d'erreur (on a supprimé la source ? voir cas d'erreur numéro 2 de visualiser une photo ). On peut éventuellement afficher le chemin du raccourci non valide
  * *déclenchement* : simple clic sur une photo OU être dans un carré de sélection avec la souris
  * *actions* :
    # on simple clic sur la photo OU on sélectionne avec le carré de sélection
@@ -40,7 +40,7 @@ _Sélectionner une photo_
 _Affichage par diaporama_
  * *précond* : des photos sont sélectionnées OU un album est sélectionné
  * *succès* : affichage du diaporama, la première photo est affichée
- * *echec* : 
+ * *echec* : aucun, si une photo n'est pas valide ( voir cas visualiser une photo ), afficher le message d'erreur dans la fenêtre et continuer le diaporama
  * *déclenchement* : menu contextuel « afficher en diaporama » OU un bouton « afficher en diaporama »
  * *actions* :
    # sélectionner les images OU l'album
@@ -51,7 +51,16 @@ _Affichage par diaporama_
  * *Priorité* : faible
  * *cas utilisé par ce cas* : visualisation d'une photo, sélection d'une photo
 
-
+_Imprimer photo_
+ * *précond* : des photos sont sélectionnées OU un album est sélectionné
+ * *succès* : photos ou album envoyés à l'imprimante
+ * *echec* : erreur de synchronisation avec l'imprimante
+ * *déclenchement* : menu contextuel « imprimer » OU un bouton de même nom
+ * *actions* :
+   # sélectionner une ou plusieurs photos OU un album
+   # appuyer sur la commande
+ * *Priorité* : faible
+ * *cas utilisé par ce cas* : sélection d'une photo 
 
 
 =Package Meta=
