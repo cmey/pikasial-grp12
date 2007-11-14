@@ -26,4 +26,8 @@ public class MainVisu {
         frame.setImageDisplayer(imageDisplayer);
     }
     
+    public static void main(String[] args){
+      new MainVisu();
+    }
+    
   }
