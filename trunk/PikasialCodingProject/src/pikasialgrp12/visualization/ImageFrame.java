@@ -23,14 +23,14 @@ public class ImageFrame extends JFrame{
     public ImageFrame() {
         super("Visualization");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        Container leContenant = getContentPane();
-        leContenant.setLayout(new FlowLayout());
+        Container con = getContentPane();
+        con.setLayout(new FlowLayout());
         setPreferredSize(new Dimension(200,200));
     }
     
     public void setImageDisplayer(ImageView image){
-        Container leContenant = getContentPane();
-        leContenant.add(image);
+        Container con = getContentPane();
+        con.add(image);
         pack();
         setVisible(true);
     }
