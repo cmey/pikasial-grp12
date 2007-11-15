@@ -19,7 +19,7 @@ public class MainVisu {
     
     /** Creates a new instance of MainVisu */
     public MainVisu() {
-        File imageFile = new File("data/fox1.gif");
+        File imageFile = new File("data/papillon.jpg");
         System.out.println(imageFile.exists());
         ImageView imageDisplayer = new ImageView(imageFile);
         ImageFrame frame = new ImageFrame();
