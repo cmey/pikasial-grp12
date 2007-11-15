@@ -5,7 +5,7 @@ public class ScanDisc{
 
     public Vector allMyImage;		// vecteur de l'ensemble des fichiers.
     private File[] fileList;		// tableau de la liste des fichiers.
-
+jjgjjh
     public ScanDisc(String vRacine){
         allMyImage = new Vector();
         this.fileList = lister( new File(vRacine)); 
