@@ -33,6 +33,6 @@ Objectif deuxième itération :
 
 Objectif troisième itération :
  * *Audrey*
- * *Christophe* doit coder ce qui concerne le package Web : connexion, rappatriement, envoit d'images ;
+ * *Christophe* doit coder ce qui concerne le package Web : connexion, rappatriement, envoie d'images ;
  * *El-Mahdi* doit coder la robustesse des dossiers et albums à l'incohérence qui peut provenir d'une suppréssion des images à l'extérieur de Pikasial ;
- * *Sara* doit coder le moteur de recherche parmis les méta-données.
+ * *Sara* doit coder le moteur de recherche parmi les méta-données.
