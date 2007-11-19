@@ -25,7 +25,7 @@ Objectif première itération :
 
 
 Objectif deuxième itération :
- * *Audrey*
+ * *Audrey* s'occupe du drag & drop dans le JTree de la vue de gauche de l'interface
  * *Christophe*
  * *El-Mahdi* doit coder la manipulation des dossiers et albums (ajouter image) ;
  * *Sara* doit coder la modification et l'ajout manuel d'information aux méta-donnée.
