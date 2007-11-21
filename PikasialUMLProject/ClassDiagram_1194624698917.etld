@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="WINDOWS-1252"?>
 <TSX edition="Java Edition" product="Tom Sawyer Visualization" version="6.0.1">
     <graphManager id="4">
         <resources>
@@ -66,8 +66,26 @@
                 </graph>
                 <graph id="7">
                     <name/>
+                    <margins>
+                        <proportional bottom="0.0" left="0.0" right="0.0" top="0.0"/>
+                        <constant bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+                    </margins>
+                    <url/>
+                    <graphics type="basicGraph">
+                        <backgroundColor value="255 255 255"/>
+                        <imageUsed/>
+                        <imageTiled value="false"/>
+                        <imageStyle value="WORLD_OFFSET"/>
+                        <imageMinTileStep value="25"/>
+                        <imageX value="0.0"/>
+                        <imageY value="0.0"/>
+                        <drawNodesBeforeEdges value="true"/>
+                    </graphics>
+                </graph>
+                <graph id="8">
+                    <name/>
                     <nodes>
-                        <node id="8">
+                        <node id="9">
                             <name/>
                             <center x="-371.5385498983861" y="-545.1254852827533"/>
                             <size height="112.0" width="217.0"/>
@@ -88,7 +106,7 @@
                                 <PEID value="DCE.D0A4764E-546D-EFD0-E124-F22C65C389DB"/>
                             </graphics>
                         </node>
-                        <node id="9">
+                        <node id="10">
                             <name/>
                             <center x="-683.7385498983863" y="-91.90819448609261"/>
                             <size height="145.0" width="309.0"/>
@@ -109,7 +127,7 @@
                                 <PEID value="DCE.50600C89-EC94-6221-CAF4-DDF33B5A3392"/>
                             </graphics>
                         </node>
-                        <node id="10">
+                        <node id="11">
                             <name/>
                             <center x="-61.7629136860337" y="851.9322777774037"/>
                             <size height="330.1991420119389" width="268.2122994681814"/>
@@ -130,7 +148,7 @@
                                 <PEID value="DCE.67B35F41-BE1B-2B9A-1B07-A853770059F1"/>
                             </graphics>
                         </node>
-                        <node id="11">
+                        <node id="12">
                             <name/>
                             <center x="-61.7629136860337" y="-545.1254852827533"/>
                             <size height="165.36335358792985" width="265.9593936872541"/>
@@ -151,7 +169,7 @@
                                 <PEID value="DCE.080A5384-E147-DF8B-93EF-C519AD8F0717"/>
                             </graphics>
                         </node>
-                        <node id="12">
+                        <node id="13">
                             <name/>
                             <center x="-978.5385498983862" y="-91.90819448609261"/>
                             <size height="112.0" width="149.0"/>
@@ -172,7 +190,7 @@
                                 <PEID value="DCE.191702A3-93E7-8671-6997-A12482402862"/>
                             </graphics>
                         </node>
-                        <node id="13">
+                        <node id="14">
                             <name/>
                             <center x="221.61272252631875" y="-545.1254852827533"/>
                             <size height="112.0" width="173.0"/>
@@ -193,11 +211,11 @@
                                 <PEID value="DCE.8045DFE3-C5E6-9C6B-86DD-3AFA9D6B0D04"/>
                             </graphics>
                         </node>
-                        <node id="14">
+                        <node id="15">
                             <name/>
-                            <center x="221.61272252631875" y="-91.90819448609261"/>
-                            <size height="259.86791681806017" width="360.0005086195147"/>
-                            <originalSize height="259.86791681806017" width="360.0005086195146"/>
+                            <center x="213.3104839309083" y="-110.55905736832426"/>
+                            <size height="297.16964258252347" width="343.3960314286938"/>
+                            <originalSize height="297.16964258252347" width="343.3960314286938"/>
                             <shape resource="0"/>
                             <url/>
                             <visible value="true"/>
@@ -214,7 +232,7 @@
                                 <PEID value="DCE.51E6B7B4-696D-C43C-238A-755D844B87C3"/>
                             </graphics>
                         </node>
-                        <node id="15">
+                        <node id="16">
                             <name/>
                             <center x="543.5322077334822" y="-545.1254852827533"/>
                             <size height="244.3712061821209" width="330.1991420119389"/>
@@ -235,7 +253,7 @@
                                 <PEID value="DCE.22475937-8E55-A67F-5232-E6D089D974F3"/>
                             </graphics>
                         </node>
-                        <node id="16">
+                        <node id="17">
                             <name/>
                             <center x="959.771178147809" y="-545.1254852827533"/>
                             <size height="225.29833155327242" width="330.1991420119389"/>
@@ -256,7 +274,7 @@
                                 <PEID value="DCE.D7517304-224E-5DF3-E112-E03078AA6C2D"/>
                             </graphics>
                         </node>
-                        <node id="17">
+                        <node id="18">
                             <name/>
                             <center x="-61.7629136860337" y="-778.9482089920258"/>
                             <size height="112.0" width="168.0"/>
@@ -277,7 +295,7 @@
                                 <PEID value="DCE.E2A68293-4A28-5541-D6B3-98CD4E25C528"/>
                             </graphics>
                         </node>
-                        <node id="18">
+                        <node id="19">
                             <name/>
                             <center x="-383.03053118134324" y="424.2495825857678"/>
                             <size height="349.27201664078734" width="343.3117433192722"/>
@@ -298,7 +316,7 @@
                                 <PEID value="DCE.ED078EAB-ACED-1457-5B0B-1F541778AAA2"/>
                             </graphics>
                         </node>
-                        <node id="19">
+                        <node id="20">
                             <name/>
                             <center x="-371.5385498983861" y="-91.90819448609261"/>
                             <size height="112.0" width="178.0"/>
@@ -319,7 +337,7 @@
                                 <PEID value="DCE.46031528-BA30-CE43-1C12-47AF15CBC6CE"/>
                             </graphics>
                         </node>
-                        <node id="20">
+                        <node id="21">
                             <name value="PikasialImage is Adapter for java.awt.Image"/>
                             <center x="-383.03053118134324" y="851.9322777774036"/>
                             <size height="79.86766250830306" width="150.19888770218154"/>
@@ -342,7 +360,7 @@
                         </node>
                     </nodes>
                     <edges>
-                        <edge id="21" source="13" target="14">
+                        <edge id="22" source="14" target="15">
                             <sourceClipping/>
                             <targetClipping/>
                             <url/>
@@ -358,11 +376,11 @@
                                 <PEID value="DCE.01EFD49E-09FB-12EC-EB21-9F4140824F2D"/>
                             </graphics>
                         </edge>
-                        <edge id="22" source="11" target="10">
+                        <edge id="23" source="12" target="11">
                             <sourceClipping/>
                             <targetClipping/>
                             <edgeLabels>
-                                <edgeLabel id="23">
+                                <edgeLabel id="24">
                                     <name value="&lt;&lt;usage&gt;&gt;"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="-41.5" y="0.0"/>
@@ -395,7 +413,7 @@
                                 <PEID value="DCE.791B894A-A61E-D34A-1965-76D2B98236BB"/>
                             </graphics>
                         </edge>
-                        <edge id="24" source="15" target="14">
+                        <edge id="25" source="16" target="15">
                             <sourceClipping/>
                             <targetClipping/>
                             <url/>
@@ -411,7 +429,7 @@
                                 <PEID value="DCE.4551492C-3046-7D76-7527-48080536BC09"/>
                             </graphics>
                         </edge>
-                        <edge id="25" source="16" target="14">
+                        <edge id="26" source="17" target="15">
                             <sourceClipping/>
                             <targetClipping/>
                             <bends>
@@ -430,7 +448,7 @@
                                 <PEID value="DCE.9B4903C7-914A-77DF-EB20-D9B2EE651832"/>
                             </graphics>
                         </edge>
-                        <edge id="26" source="17" target="11">
+                        <edge id="27" source="18" target="12">
                             <sourceClipping/>
                             <targetClipping/>
                             <url/>
@@ -446,14 +464,14 @@
                                 <PEID value="DCE.EC73E6E9-6083-236F-1488-7F5F0A92BFF8"/>
                             </graphics>
                         </edge>
-                        <edge id="27" source="14" target="10">
+                        <edge id="28" source="15" target="11">
                             <sourceClipping/>
                             <targetClipping/>
                             <bends>
                                 <point x="221.61272252631875" y="424.2495825857678"/>
                             </bends>
                             <edgeLabels>
-                                <edgeLabel id="28">
+                                <edgeLabel id="29">
                                     <name value="mMetaDonnee"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="41.5" y="5.6843418860808015E-14"/>
@@ -472,7 +490,7 @@
                                         <PEID value="DCE.C6B39824-AF41-19A9-BB94-A83452A12CB0"/>
                                     </graphics>
                                 </edgeLabel>
-                                <edgeLabel id="29">
+                                <edgeLabel id="30">
                                     <name value="0..1"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="-41.5" y="0.0"/>
@@ -491,7 +509,7 @@
                                         <PEID value="DCE.CDBD4B1A-56CE-7F6E-EBC5-B66B7FF756F4"/>
                                     </graphics>
                                 </edgeLabel>
-                                <edgeLabel id="30">
+                                <edgeLabel id="31">
                                     <name value="0..*"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="-41.5" y="5.6843418860808015E-14"/>
@@ -524,11 +542,11 @@
                                 <PEID value="DCE.E7C219CD-7802-FDDB-D426-73F87C78130C"/>
                             </graphics>
                         </edge>
-                        <edge id="31" source="11" target="14">
+                        <edge id="32" source="12" target="15">
                             <sourceClipping/>
                             <targetClipping/>
                             <edgeLabels>
-                                <edgeLabel id="32">
+                                <edgeLabel id="33">
                                     <name value="mFolder"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="29.835900306136693" y="-18.654997068532225"/>
@@ -547,9 +565,9 @@
                                         <PEID value="DCE.AE63B466-69D6-AB9D-0039-76BA99A3A610"/>
                                     </graphics>
                                 </edgeLabel>
-                                <edgeLabel id="33">
+                                <edgeLabel id="34">
                                     <name value="0..*"/>
-                                    <size height="20.0" width="74.99999999999994"/>
+                                    <size height="20.0" width="75.0"/>
                                     <constantOffset x="36.12915232925598" y="-22.589874073690908"/>
                                     <distanceFromSource value="0.39054035126627734"/>
                                     <url/>
@@ -566,7 +584,7 @@
                                         <PEID value="DCE.C64BBF42-E3CC-28C7-304B-96E691A3CCCB"/>
                                     </graphics>
                                 </edgeLabel>
-                                <edgeLabel id="34">
+                                <edgeLabel id="35">
                                     <name value="1"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="-29.835900306136665" y="18.654997068532225"/>
@@ -599,11 +617,11 @@
                                 <PEID value="DCE.D0FED175-1AA2-B784-68F9-3050577D1B7B"/>
                             </graphics>
                         </edge>
-                        <edge id="35" source="9" target="18">
+                        <edge id="36" source="10" target="19">
                             <sourceClipping/>
                             <targetClipping/>
                             <edgeLabels>
-                                <edgeLabel id="36">
+                                <edgeLabel id="37">
                                     <name value="&lt;&lt;usage&gt;&gt;"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="37.073217451763526" y="-21.59846128954841"/>
@@ -636,7 +654,7 @@
                                 <PEID value="DCE.EC7D58BD-C5C2-1610-E803-3FE8315C81A0"/>
                             </graphics>
                         </edge>
-                        <edge id="37" source="12" target="18">
+                        <edge id="38" source="13" target="19">
                             <sourceClipping/>
                             <targetClipping/>
                             <bends>
@@ -655,13 +673,13 @@
                                 <PEID value="DCE.9F2D7840-78F9-66FF-9374-E66397D7E695"/>
                             </graphics>
                         </edge>
-                        <edge id="38" source="14" target="18">
+                        <edge id="39" source="15" target="19">
                             <sourceClipping/>
                             <targetClipping/>
                             <edgeLabels>
-                                <edgeLabel id="39">
+                                <edgeLabel id="40">
                                     <name value="mPikasialImage"/>
-                                    <size height="20.0" width="74.99999999999994"/>
+                                    <size height="20.0" width="75.0"/>
                                     <constantOffset x="-24.40721547647965" y="-28.591370381673272"/>
                                     <distanceFromSource value="0.6737795818093774"/>
                                     <url/>
@@ -678,7 +696,7 @@
                                         <PEID value="DCE.39248BB2-1BC0-AAF3-B6B1-6C19732521C8"/>
                                     </graphics>
                                 </edgeLabel>
-                                <edgeLabel id="40">
+                                <edgeLabel id="41">
                                     <name value="1..*"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="24.407215476479735" y="28.591370381673244"/>
@@ -697,7 +715,7 @@
                                         <PEID value="DCE.3DE1A07B-D34B-12C6-3421-3BDF49181A18"/>
                                     </graphics>
                                 </edgeLabel>
-                                <edgeLabel id="41">
+                                <edgeLabel id="42">
                                     <name value="0..*"/>
                                     <size height="20.0" width="74.99999999999997"/>
                                     <constantOffset x="-24.407215476479692" y="-28.591370381673272"/>
@@ -730,7 +748,7 @@
                                 <PEID value="DCE.D5203118-A8EC-41A0-567E-209B3554DD78"/>
                             </graphics>
                         </edge>
-                        <edge id="42" source="8" target="19">
+                        <edge id="43" source="9" target="20">
                             <sourceClipping/>
                             <targetClipping/>
                             <url/>
@@ -746,7 +764,7 @@
                                 <PEID value="DCE.2357D90D-85B3-2AF4-D2A5-9C715F488881"/>
                             </graphics>
                         </edge>
-                        <edge id="43" source="19" target="18">
+                        <edge id="44" source="20" target="19">
                             <sourceClipping/>
                             <targetClipping/>
                             <url/>
@@ -762,7 +780,7 @@
                                 <PEID value="DCE.D13E2973-C411-6356-AEE9-A85E1D47DBA6"/>
                             </graphics>
                         </edge>
-                        <edge id="44" source="8" target="14">
+                        <edge id="45" source="9" target="15">
                             <sourceClipping/>
                             <targetClipping/>
                             <bends>
@@ -781,13 +799,13 @@
                                 <PEID value="DCE.F3D0D9E9-4EB4-3052-06E3-912FBD4B4ACC"/>
                             </graphics>
                         </edge>
-                        <edge id="45" source="18" target="10">
+                        <edge id="46" source="19" target="11">
                             <sourceClipping/>
                             <targetClipping/>
                             <edgeLabels>
-                                <edgeLabel id="46">
+                                <edgeLabel id="47">
                                     <name value="mMetaDonnee"/>
-                                    <size height="20.0" width="74.99999999999991"/>
+                                    <size height="20.0" width="75.0"/>
                                     <constantOffset x="-33.25282429785352" y="24.97892890516573"/>
                                     <distanceFromSource value="0.48806764936771446"/>
                                     <url/>
@@ -804,7 +822,7 @@
                                         <PEID value="DCE.59A8A4C1-48BF-D73C-AB89-049D01E35BF0"/>
                                     </graphics>
                                 </edgeLabel>
-                                <edgeLabel id="47">
+                                <edgeLabel id="48">
                                     <name value="0..*"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="33.25282429785352" y="-24.97892890516573"/>
@@ -823,7 +841,7 @@
                                         <PEID value="DCE.1D54E598-703C-9A1B-2DC1-57F08D1C9E22"/>
                                     </graphics>
                                 </edgeLabel>
-                                <edgeLabel id="48">
+                                <edgeLabel id="49">
                                     <name value="0..1"/>
                                     <size height="20.0" width="75.0"/>
                                     <constantOffset x="33.25282429785352" y="-24.97892890516573"/>
@@ -856,7 +874,7 @@
                                 <PEID value="DCE.290DBC89-17E4-D750-AE44-FEFFA45346FF"/>
                             </graphics>
                         </edge>
-                        <edge id="49" source="18" target="20">
+                        <edge id="50" source="19" target="21">
                             <sourceClipping/>
                             <targetClipping/>
                             <url/>
@@ -870,6 +888,86 @@
                                 <bendHeight value="5.0"/>
                                 <antiAliasing value="false"/>
                                 <PEID value="DCE.248D90D0-3F2D-B89E-21C9-2A1306E2F363"/>
+                            </graphics>
+                        </edge>
+                        <edge id="51" source="15" target="15">
+                            <sourceClipping/>
+                            <targetClipping/>
+                            <bends>
+                                <point x="579.0761685701973" y="-88.91090811263231"/>
+                                <point x="565.868628899863" y="135.6172662830521"/>
+                                <point x="344.64233942176213" y="148.82480595338646"/>
+                            </bends>
+                            <edgeLabels>
+                                <edgeLabel id="52">
+                                    <name value="children"/>
+                                    <size height="24.0" width="75.0"/>
+                                    <constantOffset x="0.0" y="10.0"/>
+                                    <distanceFromSource value="0.1"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.6892D72F-84FC-F712-7A95-C10FDA2E2CD4"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="53">
+                                    <name value="0..1"/>
+                                    <size height="24.0" width="75.0"/>
+                                    <constantOffset x="0.0" y="-10.0"/>
+                                    <distanceFromSource value="0.1"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.05955586-0DF6-26B4-CF05-315C9C0A3DF5"/>
+                                    </graphics>
+                                </edgeLabel>
+                                <edgeLabel id="54">
+                                    <name value="0..*"/>
+                                    <size height="24.0" width="75.0"/>
+                                    <constantOffset x="-7.944804229490842" y="4.022632200818464"/>
+                                    <distanceFromSource value="0.9205422741996485"/>
+                                    <url/>
+                                    <visible value="true"/>
+                                    <resizability value="RESIZABILITY_NO_FIT"/>
+                                    <graphics type="ETGenericEdgeLabelUI">
+                                        <fillColor value="255 255 255"/>
+                                        <borderColor value="0 0 0"/>
+                                        <transparent value="true"/>
+                                        <drawBorder value="false"/>
+                                        <textFont resource="3"/>
+                                        <textColor value="0 0 0"/>
+                                        <justification value="CENTER"/>
+                                        <PEID value="DCE.667C1E00-607A-5182-43F5-75B16813D437"/>
+                                    </graphics>
+                                </edgeLabel>
+                            </edgeLabels>
+                            <url/>
+                            <visible value="true"/>
+                            <graphics type="relationEdge">
+                                <lineColor value="0 0 0"/>
+                                <arrowWidth value="6.0"/>
+                                <arrowHeight value="6.0"/>
+                                <arrowType value="NO_ARROW"/>
+                                <bendWidth value="5.0"/>
+                                <bendHeight value="5.0"/>
+                                <antiAliasing value="false"/>
+                                <PEID value="DCE.50C2ECFD-AC5B-F418-AE54-15BA686129ED"/>
                             </graphics>
                         </edge>
                     </edges>
@@ -890,7 +988,7 @@
                     </graphics>
                 </graph>
             </graphs>
-            <rootGraph value="7"/>
+            <rootGraph value="8"/>
         </instances>
     </graphManager>
     <serviceInput type="jlayout">
@@ -977,8 +1075,6 @@
             </optionDefaults>
         </defaults>
         <option context="none" name="all:all:none:graphManager" value="4"/>
-        <option context="4" name="layout:all:graphManager:incrementalLayout" value="true"/>
-        <option context="7" name="layout:hierarchical:graph:levelDirection" value="DIRECTION_BOTTOM_TO_TOP"/>
     </serviceInput>
     <preferences>
         <preference name="maximumZoomLevel" value="50.0"/>
