@@ -19,8 +19,10 @@ Mercredi 7 novembre 2007 : deuxième réunion + Diagramme de classes du modèle 
 =Implantation=
 
 Samedi 3 novembre 2007 : chargement d'une image et affichage dans une JFrame : Christophe : 2h
+
 Mercredi 14 novembre 2007 : reprise de l'IG d'Audrey et incorporation d'un exemple de JTree (à gauche) et de ma vue d'une image (au centre) : 2h
-Mercredi 21 novembre 2007 : affichage par vignettes des images d'un dossier, importation d'images supplémentaires dans l'album de base et mise à jour de notamment FolderThumbnailView qui supporte maintenant la fonction d'Observer, PikasialImage a été mis à jour également dans ce sens (Observable)
+
+Mercredi 21 novembre 2007 : affichage par vignettes des images d'un dossier, importation d'images supplémentaires dans l'album de base et mise à jour de notamment FolderThumbnailView qui supporte maintenant la fonction d'Observer, PikasialImage a été mis à jour également dans ce sens (Observable), et application du pattern Composite sur Folder : 3h
 
 =Tests=
 
