@@ -19,14 +19,14 @@ Objectif premières semaines :
 
 Objectif première itération :
  * *Audrey* doit attacher l'interface graphique au modèle (chacun va aider pour sa partie) ;
- * *Christophe* doit coder l'affichage d'une image par vignette et le zoom ;
+ * *Christophe* doit coder l'affichage d'une image par vignette ;
  * *El-Mahdi* doit coder la création des albums et des dossiers ;
  * *Sara* doit coder l'extraction automatique des meta-données (EXIF et système) d'une image.
 
 
 Objectif deuxième itération :
  * *Audrey* s'occupe du drag & drop dans le JTree de la vue de gauche de l'interface
- * *Christophe*
+ * *Christophe* doit coder la rotation et le zoom sur images ainsi que la mise à jour des vues et la vue par listing de dossier ;
  * *El-Mahdi* doit coder la manipulation des dossiers et albums (ajouter image) ;
  * *Sara* doit coder la modification et l'ajout manuel d'information aux méta-donnée.
 
