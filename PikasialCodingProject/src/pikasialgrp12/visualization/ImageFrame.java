@@ -10,6 +10,7 @@ package pikasialgrp12.visualization;
 import java.awt.Container;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
+import javax.swing.JButton;
 import javax.swing.JFrame;
 import pikasialgrp12.view.ImageView;
 
@@ -31,6 +32,8 @@ public class ImageFrame extends JFrame{
     public void setImageDisplayer(ImageView image){
         Container con = getContentPane();
         con.add(image);
+        con.add(new JButton(">>"));
+        con.add(new JButton(">>"));
         pack();
         setVisible(true);
     }
