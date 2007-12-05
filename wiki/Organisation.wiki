@@ -26,13 +26,13 @@ Objectif première itération :
 
 Objectif deuxième itération :
  * *Audrey* s'occupe du drag & drop dans le JTree de la vue de gauche de l'interface
- * *Christophe* doit coder la rotation et le zoom sur images ainsi que la mise à jour des vues et la vue par listing de dossier ;
- * *El-Mahdi* doit coder la manipulation des dossiers et albums (ajouter image) ;
+ * *Christophe* doit coder la rotation et le zoom sur images ainsi que la mise à jour des vues et la vue par listing de dossier , ajouté : vue par JList;
+ * *El-Mahdi* doit coder la manipulation des dossiers et albums (ajouter image) , ajouté : JTree;
  * *Sara* doit coder la modification et l'ajout manuel d'information aux méta-donnée.
 
 
 Objectif troisième itération :
- * *Audrey*
+ * *Audrey* imprimer, rendre interface un peu jolie, ajouter des boutons;
  * *Christophe* doit coder ce qui concerne le package Web : connexion, rappatriement, envoie d'images ;
  * *El-Mahdi* doit coder la robustesse des dossiers et albums à l'incohérence qui peut provenir d'une suppréssion des images à l'extérieur de Pikasial ;
  * *Sara* doit coder le moteur de recherche parmi les méta-données.
