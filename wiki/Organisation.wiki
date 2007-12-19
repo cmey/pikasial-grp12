@@ -33,6 +33,6 @@ Objectif deuxième itération :
 
 Objectif troisième itération :
  * *Audrey* imprimer, rendre interface un peu jolie, ajouter des boutons;
- * *Christophe* doit coder ce qui concerne le package Web : connexion, rappatriement, envoie d'images. et la vue par listing de dossier ;
+ * *Christophe* doit coder ce qui concerne le package Web : connexion, rappatriement, envoi d'images (asynchrone). choisir un Set de Flickr et telecharger celui-là, et la vue par listing de dossier ;
  * *El-Mahdi* doit coder la robustesse des dossiers et albums à l'incohérence qui peut provenir d'une suppréssion des images à l'extérieur de Pikasial ;
  * *Sara* doit coder le moteur de recherche parmi les méta-données.
