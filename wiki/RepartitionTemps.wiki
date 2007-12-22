@@ -28,6 +28,10 @@ Mercredi 21 novembre 2007 : affichage par vignettes des images d'un dossier, imp
 
 Dimanche 9 décembre 2007 : affichage par vignettes des images d'un dossier à l'aide d'une JList. Modif du scan des folder pour qu'il commence à System.getProperty("User.home") aulieu des racines. Modif de Diapo pour que ce ne soit plus des images hardcodées qui soient affichée mais les images contenue dans la Database. : Christophe : 1h
 
+Samedi 16 décembre 2007 : web services : essai de FlickrJ, une API Java pour se connecter à Flickr basée sur les méthodes REST. Une exécution d'un exemple fournit génère un null pointer exception dans la bibliothèque elle-même => poubelle. Utilisation de Jickr à la place. Dans Pikasial : téléchargement des 10 images "les + intéressantes" (système de notation de Flickr) sur le disque de l'utilisateur qui peut ensuite les importer dans Pikasial. Panneau de config pour pouvoir setter son screenname et son password de connexion à Flickr. : Christophe : 2h
+
+Samedi 22 décembre 2007 : concernant l'affichage par vignette, on visualise maintenant l'image qui est sélectionnée de la liste par un ajout de Border à sa miniature : Christophe : 0,5h
+
 =Tests=
 
 rien à signaler
