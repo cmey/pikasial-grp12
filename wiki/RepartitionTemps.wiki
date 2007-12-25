@@ -18,7 +18,7 @@ Mercredi 7 novembre 2007 : deuxième réunion + Diagramme de classes du modèle 
 
 Mercredi 21 novembre 2007 : l'idée est lancée d'utiliser une JList pour afficher les vignettes : Christophe : 1h
 
-Jeudi 20 décembre 2007 : réunion de 3ème itération, on nous conseille de pouvoir avec Jickr, sélectionner un des Sets Flickr de l'utilisateur et télécharger les photos qui se trouvent dans ce Set là (pas bêtement toutes les photos de l'utilisateur).
+Jeudi 20 décembre 2007 : réunion de 3ème itération, on nous conseille de pouvoir avec Jickr, sélectionner un des Sets Flickr de l'utilisateur et télécharger les photos qui se trouvent dans ce Set là (pas bêtement toutes les photos de l'utilisateur). : tous : 0,5h
 
 =Implantation=
 
