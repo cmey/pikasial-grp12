@@ -38,7 +38,7 @@ Dimanche 20 décembre 2007 : a propos des web services, interface de configurati
 
 Lundi 21 décembre 2007 : sélection d'un PhotoSet et téléchargement des photos qui se trouvent dedans, depuis Flickr, et sur le disque (dans Rep choisit par l'utilisateur grace à l'interface de config) : Christophe : 2h
 
-Mardi 22 décembre 2007 : le download des images est maintenant asynchrone. L'upload est codé et en asynchrone, seulement je n'arrive pas à obtenir les permissions d'écriture sur mon accompte Flickr avec la lib Jickr que j'utilise :-/
+Mardi 22 décembre 2007 : le download des images est maintenant asynchrone. L'upload est codé et en asynchrone, seulement je n'arrive pas à obtenir les permissions d'écriture sur mon accompte Flickr avec la lib Jickr que j'utilise :-/ : Christophe : 1h
 
 =Tests=
 
