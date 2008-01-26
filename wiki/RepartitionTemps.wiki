@@ -36,7 +36,7 @@ Lundi 21 décembre 2007 : sélection d'un PhotoSet et téléchargement des photo
 
 Mardi 22 décembre 2007 : le download des images est maintenant asynchrone. L'upload est codé et en asynchrone, seulement je n'arrive pas à obtenir les permissions d'écriture sur mon accompte Flickr avec la lib Jickr que j'utilise :-/ Corrigé : l'upload fonctionne :) : Christophe : 2h
 
-Mercredi 23 décembre 2007 : intégration d'une nouvelle version des Albums de el-mahdi et intégration d'une nouvelle version des MetaDonnées de sara. : Christophe : 2h
+Mercredi 23 décembre 2007 : intégration d'une nouvelle version des Albums de El-mahdi et intégration d'une nouvelle version des metadonnées de Sara. : Christophe : 2h
 
 =Tests=
 
